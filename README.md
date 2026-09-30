@@ -1,0 +1,1 @@
+This project is the first assignment in The Odin Project. The goal is to review and practice HTML Foundations. 
